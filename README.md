@@ -95,3 +95,5 @@ For those looking for an additional challenge, you will evaluate the number of b
   * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
 [Report Link](https://github.com/ttoffey/Excel_Kickstarter_Analysis/blob/main/Excel%20Project.docx)
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
